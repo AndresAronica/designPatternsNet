@@ -16,8 +16,6 @@
 
 </div>
 
-#
-
 ## About The Project
 
 Welcome! <br>
@@ -26,14 +24,10 @@ This repo is the port to .NET of the following course <br>
 The course covers all the 23 Design Patterns in the GoF - “Design Patterns: Elements of Reusable Object-Oriented Software” <br>
 <b>This is a repo created just for learning purposes, and you are free to use it however you want!</b>
 
-#
-
 ## Built With
 
 The proyect is build entirely in the .NET Core platform. <br>
 [![.NET][net-badge]][net-url]
-
-#
 
 ## Proyect Structure
 The proyect is divided in folders representing the types of Design Patterns
@@ -43,14 +37,10 @@ The proyect is divided in folders representing the types of Design Patterns
 
 After that, every pattern is in its own folder.
 
-#
-
 ## Considerations
 
 The proyect has some patterns that use the same classes names, thats why some usings are commented (to avoid errors). <br>
 It's pending to correct that and make the project work regardless of that.
-
-#
 
 ## Contact
 [![LinkedIn][linkedin-shield]][linkedin-url]
